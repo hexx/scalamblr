@@ -6,7 +6,6 @@
 [scala]
   version: 2.9.1
 [repositories]
-  cache
   local
   scala-tools-releases
   maven-central
