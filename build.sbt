@@ -2,7 +2,7 @@ seq(conscriptSettings :_*)
 
 organization := "com.github.hexx"
 
-name := "Tumblr Comand-line Client"
+name := "scalamblr"
 
 version := "0.0.1"
 
