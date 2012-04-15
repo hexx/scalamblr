@@ -1,0 +1,10 @@
+import com.github.hexx.scalamblr.Config
+
+new Config {
+  val defaultHostname = "YOUR HOSTNAME"
+  override val markdown = true
+  val consumerKey = "YOUR CONSUMER KEY"
+  val consumerSecret = "YOUR CONSUMER SECRET"
+  val username = "YOUR USERNAME"
+  val password = "YOUR PASSWORD"
+}
